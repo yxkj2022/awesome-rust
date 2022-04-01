@@ -1,4 +1,5 @@
 # Awesome Rust [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyxkj2022%2Fawesome-rust.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyxkj2022%2Fawesome-rust?ref=badge_shield)
 
 A curated list of Rust code and resources.
 
@@ -100,6 +101,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Registries](#registries)
   - [Resources](#resources)
   - [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyxkj2022%2Fawesome-rust.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyxkj2022%2Fawesome-rust?ref=badge_large)
 
 ## Applications
 
